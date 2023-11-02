@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 <a href="https://twitter.com/randy_mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/twitter--blue?style=for-the-badge"></a>
-<a href="https://www.youtube.com/c/randy_mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube--red?style=for-the-badge"></a>
+<a href="https://www.youtube.com/@randy_mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube--red?style=for-the-badge"></a>
 <a href="https://instagram.com/randy.mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/instagram--pink?style=for-the-badge"></a>
 </p>
 
