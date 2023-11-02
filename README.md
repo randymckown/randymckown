@@ -6,9 +6,9 @@
 <a href="https://apps.apple.com/us/developer/randy-mckown/id1672114794">https://apps.apple.com/us/developer/randy-mckown/id1672114794</a>
 </p>
 <p align="center">
-<a href="https://twitter.com/randy_mckown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="randy_mckown" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/randy_mckown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="randy_mckown" height="30" width="40" /></a>
-<a href="https://instagram.com/randy.mckown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="randy.mckown" height="30" width="40" /></a>
+<a href="https://twitter.com/randy_mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/twitter--blue?style=for-the-badge"></a>
+<a href="https://www.youtube.com/c/randy_mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube--red?style=for-the-badge"></a>
+<a href="https://instagram.com/randy.mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/instagram--pink?style=for-the-badge"></a>
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=randymckown&" alt="randymckown" /></p>
