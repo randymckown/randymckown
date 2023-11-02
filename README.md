@@ -11,11 +11,11 @@ public struct AboutMe {
 }
 ```
 <p align="center">
-    <a href="https://apps.apple.com/us/app/nd-filter-pro-calculator/id6450627147?platform=iphone">
+    <a href="https://apps.apple.com/us/app/nd-filter-pro-calculator/id6450627147?platform=iphone" target="_blank">
     <img src="https://randymckown.com/storage/filterprobadge.png"></a>
 </p>
 <p align="center">
-    <a href="https://apps.apple.com/us/app/dad-jokes-funny-jokes-app/id1672114792?platform=iphone">
+    <a href="https://apps.apple.com/us/app/dad-jokes-funny-jokes-app/id1672114792?platform=iphone" target="_blank">
     <img src="https://randymckown.com/storage/dadjokebadge.png"></a>
 </p>
 <p align="center">
