@@ -10,10 +10,12 @@ public struct AboutMe {
     var hobbies = ["photography", "guitar", "hiking", "gaming"]
 }
 ```
+<p align="center"><strong>ND FilterPro</strong>: Photography App</br>Calculate exposure times when using Neutral Density (ND) Filters.</p>
 <p align="center">
     <a href="https://apps.apple.com/us/app/nd-filter-pro-calculator/id6450627147?platform=iphone">
     <img src="https://randymckown.com/storage/filterprobadge.png"></a>
 </p>
+<p align="center"><strong>Dad Jokes</strong>: Entertainment App</br>Add new dad jokes to your arsenal and impress your friends. ;)</p>
 <p align="center">
     <a href="https://apps.apple.com/us/app/dad-jokes-funny-jokes-app/id1672114792?platform=iphone">
     <img src="https://randymckown.com/storage/dadjokebadge.png"></a>
