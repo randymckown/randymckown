@@ -21,7 +21,7 @@ public struct AboutMe {
     <img src="https://randymckown.com/storage/dadjokebadge.png"></a>
 </p>
 <p align="center">
-<a href="https://twitter.com/randy_mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/twitter--blue?style=for-the-badge"></a>
-<a href="https://www.youtube.com/@randy_mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube--red?style=for-the-badge"></a>
-<a href="https://instagram.com/randy.mckown" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/instagram--pink?style=for-the-badge"></a>
+<a href="https://twitter.com/randysdevlife" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/twitter--blue?style=for-the-badge"></a>
+<a href="https://www.youtube.com/@randysdevlife" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube--red?style=for-the-badge"></a>
+<a href="https://instagram.com/randysdevlife" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/instagram--pink?style=for-the-badge"></a>
 </p>
