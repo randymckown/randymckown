@@ -1,9 +1,10 @@
 ```swift
 public struct AboutMe {
     let name = "Randy McKown"
-    let profession = "iOS Developer"
+    let profession = "Software Engineer"
     
-    var preferredTechStack = ["swift", "swiftui"]
+    var mobileTechStack = ["swift", "swiftui"]
+    var webTechStack = ["html", "css", "javascript", "react"]
     var uiTools = ["photoshop", "sketch", "figma"]
     var hasUsed = ["python", "django", "java", "kotlin"]
 
